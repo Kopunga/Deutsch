@@ -1,4 +1,4 @@
-﻿ABM_EVOLVE_FOR = "Entwickeln für "
+ABM_EVOLVE_FOR = "Entwickeln für "
 ABM_GAME_NOT_STARTED = "Das Spiel hat noch nicht begonnen"
 ABM_NEED = "Benötigt "
 ABM_SELECT_UPGRADES = "Wähle Upgrades"
